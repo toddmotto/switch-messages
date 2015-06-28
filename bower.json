@@ -1,0 +1,24 @@
+{
+  "name": "switchmessages",
+  "version": "1.0.0",
+  "homepage": "https://github.com/toddmotto/switch-messages",
+  "authors": [
+    "Todd Motto"
+  ],
+  "description": "Angular 1.2 backport of ngMessages Directive",
+  "main": "dist/flare.js",
+  "keywords": [
+    "ngMessages",
+    "angular",
+    "forms",
+    "validation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
