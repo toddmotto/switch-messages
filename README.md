@@ -1,4 +1,4 @@
-# switch-messages.js [![Build Status](https://travis-ci.org/toddmotto/switch-messages.svg)](https://travis-ci.org/toddmotto/switch-messages)
+# switch-messages.js
 
 switchMessages for Angular 1.2+. switchMessages backports partial functionality from Angular 1.3+ `ngMessages` Directive, making it available for use in 1.2.x releases and weighs &lt;1KB. switchMessages parses the current validation state of the `$error` Object to enable dynamic toggling of relevant validation messages.
 
